@@ -39,6 +39,22 @@ looking for is not on my short list, take a peek at the full
 </p>
 <br/>
 
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2512.08924" title="Efficiently Reconstructing Dynamic Scenes One D4RT at a Time">
+        <strong>Efficiently Reconstructing Dynamic Scenes One D4RT at a Time</strong>
+    </a>
+    <br/>
+    Chuhan Zhang, Guillaume Le Moing, Skanda Koppula, Ignacio Rocco, Liliane Momeni, Junyu Xie, Shuyang Sun, Rahul Sukthankar, Joëlle K. Barral, Raia Hadsell, Zoubin Ghahramani, Andrew Zisserman, Junlin Zhang, Mehdi S. M. Sajjadi
+    <br/>
+    [<a href="https://arxiv.org/abs/2512.08924">paper</a>]    
+    <br/>
+    <strong>Topic:</strong> 3D Vision
+    <br/>
+    <strong>Session:</strong> 
+</p>
+<br/>
+
 ### generative models
 
 <p align="left">
