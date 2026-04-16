@@ -72,6 +72,22 @@ looking for is not on my short list, take a peek at the full
 </p>
 <br/>
 
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2604.04913" title="A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens">
+        <strong>🔥 A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens</strong>
+    </a>
+    <br/>
+    Tommie Kerssies, Gabriele Berton, Ju He, Qihang Yu, Wufei Ma, Daan de Geus, Gijs Dubbelman, Liang-Chieh Chen
+    <br/>
+    [<a href="https://arxiv.org/abs/2604.04913">paper</a>] [<a href="https://github.com/amazon-far/deltatok">code</a>]  [<a href="https://huggingface.co/collections/Amazon-FAR/deltatok">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Generative Models
+    <br/>
+    <strong>Session:</strong> 
+</p>
+<br/>
+
 ### object tracking
 
 <p align="left">
@@ -81,7 +97,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     Görkay Aydemir, Fatma Güney, Weidi Xie
     <br/>
-    [<a href="https://arxiv.org/abs/2603.12217">paper</a>] [<a href="https://github.com/gorkaydemir/track_on_r">code</a>]   
+    [<a href="https://arxiv.org/abs/2603.12217">paper</a>] [<a href="https://github.com/gorkaydemir/track_on">code</a>]   
     <br/>
     <strong>Topic:</strong> Object Tracking
     <br/>
@@ -164,7 +180,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     Bingyi Cao, Koert Chen, Kevis-Kokitsi Maninis, Kaifeng Chen, Arjun Karpur, Ye Xia, Sahil Dua, Tanmaya Dabral, Guangxing Han, Bohyung Han, Joshua Ainslie, Alex Bewley, Mithun Jacob, Rene Wagner, Washington Ramos, Krzysztof Choromanski, Mojtaba Seyedhosseini, Howard Zhou, Andre Araujo
     <br/>
-    [<a href="https://arxiv.org/abs/2604.12012">paper</a>] [<a href="https://github.com/google-deepmind/tips">code</a>]  [<a href="https://huggingface.co/spaces/google/tipsv2-gpu-explorer">demo</a>] 
+    [<a href="https://arxiv.org/abs/2604.12012">paper</a>] [<a href="https://github.com/google-deepmind/tips">code</a>]  [<a href="https://huggingface.co/spaces/google/TIPSv2">demo</a>] 
     <br/>
     <strong>Topic:</strong> Vision-Language Models
     <br/>
