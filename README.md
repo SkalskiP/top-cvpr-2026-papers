@@ -55,6 +55,22 @@ looking for is not on my short list, take a peek at the full
 </p>
 <br/>
 
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2603.00805" title="NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code">
+        <strong>NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code</strong>
+    </a>
+    <br/>
+    Seemandhar Jain, Keshav Gupta, Kunal Gupta, Manmohan Chandraker
+    <br/>
+    [<a href="https://arxiv.org/abs/2603.00805">paper</a>] [<a href="https://github.com/seemandhar/nerfify-code">code</a>]   
+    <br/>
+    <strong>Topic:</strong> 3D Vision
+    <br/>
+    <strong>Session:</strong> 
+</p>
+<br/>
+
 ### generative models
 
 <p align="left">
