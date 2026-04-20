@@ -55,6 +55,23 @@ looking for is not on my short list, take a peek at the full
 </p>
 <br/>
 
+### depth estimation
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2512.16913" title="Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation">
+        <strong>Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation</strong>
+    </a>
+    <br/>
+    Xin Lin, Meixi Song, Dizhe Zhang, Wenxuan Lu, Haodong Li, Bo Du, Ming-Hsuan Yang, Truong Nguyen, Lu Qi
+    <br/>
+    [<a href="https://arxiv.org/abs/2512.16913">paper</a>] [<a href="https://github.com/Insta360-Research-Team/DAP">code</a>]  [<a href="https://huggingface.co/spaces/Insta360-Research/DAP">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Depth Estimation
+    <br/>
+    <strong>Session:</strong> 
+</p>
+<br/>
+
 ### generative models
 
 <p align="left">
@@ -100,6 +117,23 @@ looking for is not on my short list, take a peek at the full
     [<a href="https://arxiv.org/abs/2603.12217">paper</a>] [<a href="https://github.com/gorkaydemir/track_on">code</a>]   
     <br/>
     <strong>Topic:</strong> Object Tracking
+    <br/>
+    <strong>Session:</strong> 
+</p>
+<br/>
+
+### physical modeling
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2512.01738" title="MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention">
+        <strong>🔥 MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention</strong>
+    </a>
+    <br/>
+    Pedro M. P. Curvo, Jan-Willem van de Meent, Maksim Zhdanov
+    <br/>
+    [<a href="https://arxiv.org/abs/2512.01738">paper</a>] [<a href="https://github.com/pedrocurvo/mspt">code</a>]   
+    <br/>
+    <strong>Topic:</strong> Physical Modeling
     <br/>
     <strong>Session:</strong> 
 </p>
