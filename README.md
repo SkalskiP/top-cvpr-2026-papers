@@ -289,6 +289,26 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37488.png?t=1779356646.6665215" title="SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37488.png?t=1779356646.6665215" alt="SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2602.23359" title="SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation">
+        <strong>SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation</strong>
+    </a>
+    <br/>
+    Vaibhav Agrawal, Rishubh Parihar, Pradhaan Bhat, Ravi Kiran S, Venkatesh Babu R
+    <br/>
+    [<a href="https://arxiv.org/abs/2602.23359">paper</a>] [<a href="https://github.com/va1bhavagrawal/seethrough3d">code</a>] [<a href="https://www.youtube.com/watch?v=tOvA2yIsoYI">video</a>] [<a href="https://huggingface.co/va1bhavagrawa1/seethrough3d">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Generative Models
+    <br/>
+    <strong>Session:</strong> Sat 6 Jun 10:00 - 12:00 Poster Session 4 #370
+</p>
+<br/>
+<br/>
+
 ### object detection
 
 <p align="left">
