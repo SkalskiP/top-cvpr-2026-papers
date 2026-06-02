@@ -432,7 +432,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     Ti Wang, Xiaohang Yu, Mackenzie Weygandt Mathis
     <br/>
-    [<a href="https://arxiv.org/abs/2602.05755">paper</a>]  [<a href="https://www.youtube.com/watch?v=_aUL-QLqeJM">video</a>]  
+    [<a href="https://arxiv.org/abs/2602.05755">paper</a>] [<a href="https://github.com/AdaptiveMotorControlLab/FMPose3D">code</a>] [<a href="https://www.youtube.com/watch?v=_aUL-QLqeJM">video</a>]  
     <br/>
     <strong>Topic:</strong> Pose Estimation
     <br/>
