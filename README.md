@@ -476,6 +476,9 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36465.png?t=1780448656.1421936" title="INSID3: Training-Free In-Context Segmentation with DINOv3">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36465.png" alt="INSID3: Training-Free In-Context Segmentation with DINOv3" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2603.28480" title="INSID3: Training-Free In-Context Segmentation with DINOv3">
         <strong>📢 INSID3: Training-Free In-Context Segmentation with DINOv3</strong>
     </a>
@@ -488,6 +491,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Sat 6 Jun 14:00-15:15 Oral Session 4D: Visual Segmentation #1 | Sat 6 Jun 16:45-18:45 Poster Session 4 #19
 </p>
+<br/>
 <br/>
 
 
@@ -508,6 +512,9 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37579.png?t=1780449299.8066494" title="MARCO: Navigating the Unseen Space of Semantic Correspondence">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/37579.png" alt="MARCO: Navigating the Unseen Space of Semantic Correspondence" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2604.18267" title="MARCO: Navigating the Unseen Space of Semantic Correspondence">
         <strong>📢 MARCO: Navigating the Unseen Space of Semantic Correspondence</strong>
     </a>
@@ -520,6 +527,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Sat 6 Jun 14:00-15:15 Oral Session 4D: Visual Segmentation #2 | Sat 6 Jun 16:45-18:45 Poster Session 4 #20
 </p>
+<br/>
 <br/>
 
 
@@ -579,6 +587,26 @@ looking for is not on my short list, take a peek at the full
     <strong>Topic:</strong> Vision-Language Models
     <br/>
     <strong>Session:</strong> Sun 7 Jun 11:45-13:45 Poster Session 5 #65
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36933.png?t=1779867904.8798943" title="Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36933.png" alt="Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2601.10611" title="Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding">
+        <strong>🏆 Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding</strong>
+    </a>
+    <br/>
+    Christopher Clark, Jieyu Zhang, Zixian Ma, Jae Sung Park, Mohammadreza Salehi, Rohun Tripathi, Sangho Lee, Zhongzheng Ren, ...
+    <br/>
+    [<a href="https://arxiv.org/abs/2601.10611">paper</a>] [<a href="https://github.com/allenai/molmo2">code</a>] [<a href="https://www.youtube.com/watch?v=9ziGSFfKkj0">video</a>] [<a href="https://huggingface.co/collections/allenai/molmo2">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Vision-Language Models
+    <br/>
+    <strong>Session:</strong> Sun 7 Jun 10:15-11:30 Oral Session 5A #3 | Sun 7 Jun 11:45-13:45 Poster Session 5 #3
 </p>
 <br/>
 <br/>
