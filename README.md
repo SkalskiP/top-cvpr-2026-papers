@@ -338,23 +338,44 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
-### object detection
+### image-to-image
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/39842.png?t=1778984010.97555" title="Does YOLO Really Need to See Every Training Image in Every Epoch?">
-        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/39842.png" alt="Does YOLO Really Need to See Every Training Image in Every Epoch?" width="400px" align="left" />
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36711.png?t=1780419287.5466175" title="ARC Is a Vision Problem!">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36711.png" alt="ARC Is a Vision Problem!" width="400px" align="left" />
     </a>
-    <a href="https://arxiv.org/abs/2603.17684" title="Does YOLO Really Need to See Every Training Image in Every Epoch?">
-        <strong>Does YOLO Really Need to See Every Training Image in Every Epoch?</strong>
+    <a href="https://arxiv.org/abs/2511.14761" title="ARC Is a Vision Problem!">
+        <strong>ARC Is a Vision Problem!</strong>
     </a>
     <br/>
-    Xingxing Xie, Jiahua Dong, Junwei Han, Gong Cheng
+    Keya Hu, Ali Cy, Linlu Qiu, Xiaoman Delores Ding, Runqian Wang, Yeyin Eva Zhu, Jacob Andreas, Kaiming He
     <br/>
-    [<a href="https://arxiv.org/abs/2603.17684">paper</a>]  [<a href="https://www.youtube.com/watch?v=TfEgVtbZIx0">video</a>]  
+    [<a href="https://arxiv.org/abs/2511.14761">paper</a>] [<a href="https://github.com/lillian039/VARC">code</a>]   
     <br/>
-    <strong>Topic:</strong> Object Detection
+    <strong>Topic:</strong> Image-to-Image
     <br/>
-    <strong>Session:</strong> Fri 5 Jun 9:15-10:30 Oral Session 1C #2 | Fri 5 Jun 10:45-12:45 Poster Session 1 #14
+    <strong>Session:</strong> Fri 5 Jun 10:45-12:45 Poster Session 1 #234
+</p>
+<br/>
+<br/>
+
+### motion prediction
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37449.png?t=1779315809.7130854" title="Envisioning the Future, One Step at a Time">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/37449.png" alt="Envisioning the Future, One Step at a Time" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2604.09527" title="Envisioning the Future, One Step at a Time">
+        <strong>Envisioning the Future, One Step at a Time</strong>
+    </a>
+    <br/>
+    Stefan Andreas Baumann, Jannik Wiese, Tommaso Martorella, Mahdi M. Kalayeh, Björn Ommer
+    <br/>
+    [<a href="https://arxiv.org/abs/2604.09527">paper</a>] [<a href="https://github.com/CompVis/flow-poke-transformer">code</a>] [<a href="https://www.youtube.com/watch?v=rM_CzaTDevQ">video</a>] [<a href="https://huggingface.co/CompVis/myriad">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Motion Prediction
+    <br/>
+    <strong>Session:</strong> Fri 5 Jun 10:45-12:45 Poster Session 1 #634
 </p>
 <br/>
 <br/>
@@ -458,6 +479,26 @@ looking for is not on my short list, take a peek at the full
     <strong>Topic:</strong> Pose Estimation
     <br/>
     <strong>Session:</strong> Sat 6 Jun 11:45-13:45 Poster Session 3 #40
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38876.png?t=1780137580.8615584" title="MAMMA: Markerless Accurate Multi-person Motion Acquisition">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38876.png" alt="MAMMA: Markerless Accurate Multi-person Motion Acquisition" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2506.13040" title="MAMMA: Markerless Accurate Multi-person Motion Acquisition">
+        <strong>🏆 MAMMA: Markerless Accurate Multi-person Motion Acquisition</strong>
+    </a>
+    <br/>
+    Hanz Cuevas Velasquez, Anastasios Yiannakidis, Soyong Shin, Giorgio Becherini, Markus Höschle, Joachim Tesch, Taylor Obersat, Tsvetelina Alexiadis, ...
+    <br/>
+    [<a href="https://arxiv.org/abs/2506.13040">paper</a>] [<a href="https://github.com/cuevhv/mamma">code</a>] [<a href="https://www.youtube.com/watch?v=i5K6wtuPIf8">video</a>]  
+    <br/>
+    <strong>Topic:</strong> Pose Estimation
+    <br/>
+    <strong>Session:</strong> Fri 5 Jun 13:00-14:15 Oral Session 2A #1 | Fri 5 Jun 16:00-18:00 Poster Session 2 #1
 </p>
 <br/>
 <br/>
