@@ -223,6 +223,27 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+### agents
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/39333.png?t=1779306302.6982698" title="NitroGen: An Open Foundation Model for Generalist Gaming Agents">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/39333.png" alt="NitroGen: An Open Foundation Model for Generalist Gaming Agents" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2601.02427" title="NitroGen: An Open Foundation Model for Generalist Gaming Agents">
+        <strong>🏆 NitroGen: An Open Foundation Model for Generalist Gaming Agents</strong>
+    </a>
+    <br/>
+    Loïc Magne, Anas Awadalla, Guanzhi Wang, Yinzhen Xu, Joshua Belofsky, Fengyuan Hu, Joohwan Kim, Ludwig Schmidt, ...
+    <br/>
+    [<a href="https://arxiv.org/abs/2601.02427">paper</a>] [<a href="https://github.com/MineDojo/NitroGen">code</a>] [<a href="https://www.youtube.com/watch?v=zXRQo1_WX8M">video</a>] [<a href="https://huggingface.co/nvidia/NitroGen">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Agents
+    <br/>
+    <strong>Session:</strong> Sat 6 Jun 14:00-15:15 Oral Session 4B #2 | Sat 6 Jun 16:45-18:45 Poster Session 4 #4
+</p>
+<br/>
+<br/>
+
 ### depth estimation
 
 <p align="left">
