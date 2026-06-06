@@ -632,6 +632,27 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+### video understanding
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37458.png?t=1780270269.967733" title="VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/37458.png" alt="VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2605.02834" title="VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition">
+        <strong>🔥 VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition</strong>
+    </a>
+    <br/>
+    Tanush Yadav, Mohammadreza Salehi, Jae Sung Park, Vivek Ramanujan, Hannaneh Hajishirzi, Yejin Choi, Ali Farhadi, Rohun Tripathi, ...
+    <br/>
+    [<a href="https://arxiv.org/abs/2605.02834">paper</a>] [<a href="https://github.com/RAIVNLab/VideoNet">code</a>] [<a href="https://www.youtube.com/watch?v=YmAMv3UO5dI">video</a>] [<a href="https://huggingface.co/datasets/raivn/VideoNet">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Video Understanding
+    <br/>
+    <strong>Session:</strong> Fri 5 Jun 16:00-18:00 Poster Session 2 #530
+</p>
+<br/>
+<br/>
+
 ### vision-language models
 
 <p align="left">
